@@ -1,4 +1,2 @@
-123
-toi thu 3 5 7
-456
-789
+DEVNET 23A02
+phuc-lt
